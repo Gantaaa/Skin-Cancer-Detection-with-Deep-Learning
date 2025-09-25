@@ -35,9 +35,11 @@ This project explores the use of deep learning for **automated skin cancer detec
 - Improve dataset balance with augmentation techniques  
 
 ## ▶️ How to Run
-1. Open the notebook directly in Google Colab:  
-   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Gantaaa/Skin-Cancer-Detection-with-Deep-Learning/blob/main/FinalDeliverable.ipynb)
-2. Run all cells. Dataset is loaded within Colab.  
+To run locally:
+1. python -m venv venv
+2. source venv/bin/activate
+3. pip install -r requirements.txt
+4. Open FinalDeliverable.ipynb in Jupyter or run it in Colab.
 
 ---
 💡 *This project was built as part of my AI/ML learning journey, showcasing my skills in deep learning, computer vision, and medical AI applications.*
